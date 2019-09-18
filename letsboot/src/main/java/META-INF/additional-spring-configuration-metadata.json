@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "letsboot.welcomMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  },
+  {
+    "name": "letsboot.welcomeMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'letsboot.welcomeMessage'"
+  }
+]}
